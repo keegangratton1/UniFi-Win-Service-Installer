@@ -26,4 +26,5 @@ powershell.exe -executionpolicy bypass -file "install.ps1"
 
 * Error Handling: Implement robust error checks to handle potential issues during installation.
 * Service Status Check: Add functionality to verify that the UniFi service is running after installation.
-* Script Cleanup: Ensure the script performs clean-up tasks, like removing temporary files, after successful installation.
+* Script Cleanup: Ensure the script performs clean-up tasks, like removing temporary files, after successful installation
+* Add firewall rules.
