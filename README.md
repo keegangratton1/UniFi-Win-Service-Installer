@@ -17,9 +17,9 @@ irm https://raw.githubusercontent.com/keegangratton1/UniFi-Win-Service-Installer
 
 1. Download the .zip file from the GitHub repository.
 2. Extract the contents to a folder of your choice.
-3. Open a PowerShell console and run the following command to install:
-```powershell
-.\install.ps1
+3. Open a cmd console or run window and run the following command to install:
+```
+powershell.exe -executionpolicy bypass -file "install.ps1"
 ```
 
 ## Roadmap
